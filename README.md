@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Haris!;" />
 </h1>
 
-**Multi-talented web developer and designer with a knack for creativity.**
+**<h2>Multi-talented web developer and designer with a knack for creativity.</h2>**
 
 🔭 **Current Projects**:
    - BPL-DREAM11 Fantasy Cricket App
