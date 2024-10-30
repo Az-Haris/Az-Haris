@@ -25,6 +25,7 @@
 </div>
 
  <br/>
+ 
 <h2 align="center">⚒️ Languages-Frameworks-Tools</h2>
 <br/>
 <div align="center">
@@ -32,7 +33,6 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
-<br />
 <br />
 <br />
 
@@ -44,17 +44,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Az-Haris&show_icons=true&count_private=true&rank_icon=github&theme=transparent&card_width=595" alt="Haris's GitHub stats">
 </p>
 
-
-<br />
 <br />
 
 <h2 align="center">🌈 Fun Fact</h2>
 <p align="center">I'm a Multi-talented web developer and designer with a knack for creativity.</p>
-
 <br />
-<br />
-
-<h2 align="center">☕ Buy Me a Coffee</h2>
-<a href="buymeacoffee.com/ZfXvzCcYq0" target="_blank" align="center">
-    <img align="center" src="https://www.codehim.com/wp-content/uploads/2022/09/bmc-button.png" />
+<div align="center">
+    <a href="buymeacoffee.com/ZfXvzCcYq0" target="_blank">
+    <img height=60 src="https://www.codehim.com/wp-content/uploads/2022/09/bmc-button.png" />
 </a>
+</div>
