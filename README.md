@@ -4,10 +4,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Haris!;" />
 </h1>
 
-**<h3 align="center">I'm a Multi-talented web developer and designer with a knack for creativity.</h3>**
+<h3 align="center">I'm a Multi-talented web developer and designer with a knack for creativity.</h3>
 
-<br />
+ <br/>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
+
+<h2 align="center">💬 Contact Me 💬</h2>
+<br/>
 <div align="center"> 
   <a href="mailto:mdalimuzzaman437@gmail.com">
     <img height="40" src="https://lh3.googleusercontent.com/mK6uPlO8TKCVSU8TsniV0pOUB0SSETbAPB_QUaaJ96qbBdZwaygmzf_bWRTIHmCNKgJ2hhn86KSfEAHvHN-P2EjFWAxPd77ob_2k8ew=h120" />
@@ -20,14 +29,8 @@
   </a>
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
+
+
 
 
 🔭 **Current Projects**:
