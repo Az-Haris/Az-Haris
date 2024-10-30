@@ -67,9 +67,6 @@
 
 ---
 
-![Haris's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
-
 ### 🏆 Featured Projects
 - [BPL-DREAM11](https://github.com/yourusername/BPL-DREAM11) - Cricket fantasy league
 - [Zero & Tax Return Service BD](https://github.com/yourusername/zero-tax) - Tax return service
