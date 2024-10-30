@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Haris
 **Multi-talented web developer and designer with a knack for creativity.**
-[![trophy](https://github-profile-trophy.vercel.app/?username=Az-Haris)](https://github.com/Az-Haris/github-profile-trophy)
+
 🔭 **Current Projects**:
    - BPL-DREAM11 Fantasy Cricket App
    - MERN Stack Websites
