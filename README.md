@@ -37,11 +37,9 @@
 <br />
 
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Az-Haris&date_format=j%20M%5B%20Y%5D&card_width=595" alt="GitHub Streak" /></a>
-  <a href="https://github.com/Az-Haris/github-readme-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Az-Haris&date_format=j%20M%5B%20Y%5D&card_width=595" alt="GitHub Streak" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Az-Haris&card_width=595&layout=compact" alt="Top Languages">
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=Az-Haris&show_icons=true&count_private=true&rank_icon=github&theme=transparent&card_width=595" alt="Haris's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Az-Haris&show_icons=true&count_private=true&rank_icon=github&theme=transparent&card_width=595" alt="Haris's GitHub stats">
 </p>
 
 <br />
