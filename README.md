@@ -6,6 +6,24 @@
 
 <h3 align="center">I'm a Multi-talented web developer and designer with a knack for creativity.</h3>
 
+<div align="center"> 
+  <a href="mailto:mdalimuzzaman437@gmail.com" target="blank">
+     <img height=40 align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" target="_blank" />
+  </a>
+  <a href="https://www.linkedin.com/in/alimuzzaman-haris/" target="blank">
+     <img height=40 align="center" src="https://cdn-icons-png.flaticon.com/128/145/145807.png" target="_blank" />
+  </a>
+  <a href="https://www.instagram.com/alimuzzaman.haris/" target="blank">
+     <img height=40 align="center" src="https://cdn-icons-png.flaticon.com/128/15713/15713420.png" target="_blank" />
+  </a>
+    <a href="https://www.facebook.com/alimuzzaman.haris/" target="blank">
+     <img height=40 align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968764.png" target="_blank" />
+  </a>
+    <a href="https://wa.me/+8801405742311/" target="blank">
+     <img height=40 align="center" src="https://cdn-icons-png.flaticon.com/128/15713/15713434.png" target="_blank" />
+  </a>
+</div>
+
  <br/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -15,19 +33,6 @@
 </div>
 
 
-<h2 align="center">💬 Contact Me 💬</h2>
-<br/>
-<div align="center"> 
-  <a href="mailto:mdalimuzzaman437@gmail.com">
-    <img height="40" src="https://lh3.googleusercontent.com/mK6uPlO8TKCVSU8TsniV0pOUB0SSETbAPB_QUaaJ96qbBdZwaygmzf_bWRTIHmCNKgJ2hhn86KSfEAHvHN-P2EjFWAxPd77ob_2k8ew=h120" />
-  </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
 
 
 
