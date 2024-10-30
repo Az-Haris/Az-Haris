@@ -13,7 +13,7 @@
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ :chart_with_upwards_trend: Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white)
