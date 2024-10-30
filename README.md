@@ -47,7 +47,7 @@
 <br />
 
 <h2 align="center">🌈 Fun Fact</h2>
-<p align="center">I'm a Multi-talented web developer and designer with a knack for creativity.</p>
+<p align="center">I enjoy learning about emerging technologies!</p>
 <br />
 <div align="center">
     <a href="buymeacoffee.com/ZfXvzCcYq0" target="_blank">
