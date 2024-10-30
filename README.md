@@ -8,19 +8,19 @@
 
 <div align="center"> 
   <a href="mailto:mdalimuzzaman437@gmail.com" target="_blank">
-     <img height=40 align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" target="_blank" />
+     <img height=40 align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" />
   </a>
   <a href="https://www.linkedin.com/in/alimuzzaman-haris/" target="_blank">
-     <img height=40 align="center" src="https://cdn-icons-png.flaticon.com/128/145/145807.png" target="_blank" />
+     <img height=40 align="center" src="https://cdn-icons-png.flaticon.com/128/145/145807.png" />
   </a>
   <a href="https://www.instagram.com/alimuzzaman.haris/" target="_blank">
-     <img height=40 align="center" src="https://cdn-icons-png.flaticon.com/128/15713/15713420.png" target="_blank" />
+     <img height=40 align="center" src="https://cdn-icons-png.flaticon.com/128/15713/15713420.png" />
   </a>
     <a href="https://www.facebook.com/alimuzzaman.haris/" target="_blank">
-     <img height=40 align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968764.png" target="_blank" />
+     <img height=40 align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968764.png" />
   </a>
     <a href="https://wa.me/+8801405742311/" target="_blank">
-     <img height=40 align="center" src="https://cdn-icons-png.flaticon.com/128/15713/15713434.png" target="_blank" />
+     <img height=40 align="center" src="https://cdn-icons-png.flaticon.com/128/15713/15713434.png" />
   </a>
 </div>
 
