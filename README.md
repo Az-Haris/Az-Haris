@@ -40,7 +40,7 @@
   <a href="https://github.com/Az-Haris/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Az-Haris&card_width=595&layout=compact" alt="Top Languages">
   </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=Az-Haris&show_icons=true&theme=transparent&card_width=595" alt="Haris's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Az-Haris&show_icons=true&count_private=true&rank_icon=github&theme=transparent&card_width=595" alt="Haris's GitHub stats">
 </p>
 
 
