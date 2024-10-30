@@ -32,7 +32,15 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
+<br />
 
+<p align="center">
+  <a href="https://github.com/Az-Haris/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Az-Haris&card_width=595&layout=compact" alt="Top Languages">
+  </a>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Az-Haris&show_icons=true&theme=transparent&card_width=595" alt="Haris's GitHub stats">
+</p>
 
 
 
