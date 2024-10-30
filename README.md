@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Az-Haris.Az-Haris" />
 # 👋 Hi, I’m Haris
 **Multi-talented web developer and designer with a knack for creativity.**
 
