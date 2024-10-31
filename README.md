@@ -1,26 +1,26 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Az-Haris.Az-Haris" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Az-Haris.Az-Haris" alt="Visitors: 9999" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Haris!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Haris!;" alt="Hi There, I'm Haris !" />
 </h1>
 
 <h3 align="center">I'm a Multi-talented web developer and designer with a knack for creativity.</h3>
 
 <div align="center"> 
   <a href="mailto:mdalimuzzaman437@gmail.com" target="_blank">
-     <img height=40 align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" />
+     <img height=40 align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/alimuzzaman-haris/" target="_blank">
-     <img height=40 align="center" src="https://cdn-icons-png.flaticon.com/128/145/145807.png" />
+     <img height=40 align="center" src="https://cdn-icons-png.flaticon.com/128/145/145807.png" alt="Linkedin" />
   </a>
   <a href="https://www.instagram.com/alimuzzaman.haris/" target="_blank">
-     <img height=40 align="center" src="https://cdn-icons-png.flaticon.com/128/15713/15713420.png" />
+     <img height=40 align="center" src="https://cdn-icons-png.flaticon.com/128/15713/15713420.png" alt="Instagram" />
   </a>
     <a href="https://www.facebook.com/alimuzzaman.haris/" target="_blank">
-     <img height=40 align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968764.png" />
+     <img height=40 align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968764.png" alt="Facebook" />
   </a>
     <a href="https://wa.me/+8801405742311/" target="_blank">
-     <img height=40 align="center" src="https://cdn-icons-png.flaticon.com/128/15713/15713434.png" />
+     <img height=40 align="center" src="https://cdn-icons-png.flaticon.com/128/15713/15713434.png" alt="WhatsApp" />
   </a>
 </div>
 
@@ -29,8 +29,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,javascript,typescript,express,firebase,mongodb,redux,c,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,vscode,github,figma,git" alt="Languages-Frameworks-Tools" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,javascript,typescript,express,firebase,mongodb,redux,c,nextjs,mysql" alt="Languages-Frameworks-Tools" /><br>
 </div>
 
 <br />
@@ -50,6 +50,6 @@
 <br />
 <div align="center">
     <a href="buymeacoffee.com/ZfXvzCcYq0" target="_blank">
-    <img height=60 src="https://www.codehim.com/wp-content/uploads/2022/09/bmc-button.png" />
+    <img height=60 src="https://www.codehim.com/wp-content/uploads/2022/09/bmc-button.png" alt="Buy Me a Coffee" />
 </a>
 </div>
