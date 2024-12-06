@@ -7,8 +7,8 @@
 <h3 align="center">I'm a Multi-talented web developer and designer with a knack for creativity.</h3>
 
 <div align="center"> 
-    <a href="mailto:mdalimuzzaman437@gmail.com">
-      <img height="40" align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="Gmail" />
+    <a href="mdalimuzzaman437@gmail.com">
+      <img height="40" align="center" title="mdalimuzzaman437@gmail.com" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="Gmail" />
     </a>
   <a href="https://www.linkedin.com/in/alimuzzaman-haris/">
      <img height=40 align="center" src="https://cdn-icons-png.flaticon.com/128/145/145807.png" alt="Linkedin" />
