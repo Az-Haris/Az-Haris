@@ -7,20 +7,20 @@
 <h3 align="center">I'm a Multi-talented web developer and designer with a knack for creativity.</h3>
 
 <div align="center"> 
-    <a href="mdalimuzzaman437@gmail.com">
+    <a href="mailto:mdalimuzzaman437@gmail.com">
       <img height="40" align="center" title="mdalimuzzaman437@gmail.com" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="Gmail" />
     </a>
   <a href="https://www.linkedin.com/in/alimuzzaman-haris/">
-     <img height=40 align="center" src="https://cdn-icons-png.flaticon.com/128/145/145807.png" alt="Linkedin" />
+     <img height=40 align="center" title="LinkedIn || MD Alimuzzaman Haris" src="https://cdn-icons-png.flaticon.com/128/145/145807.png" alt="Linkedin" />
   </a>
   <a href="https://www.instagram.com/alimuzzaman.haris/">
-     <img height=40 align="center" src="https://cdn-icons-png.flaticon.com/128/15713/15713420.png" alt="Instagram" />
+     <img height=40 align="center" title="Instagram || MD Alimuzzaman Haris" src="https://cdn-icons-png.flaticon.com/128/15713/15713420.png" alt="Instagram" />
   </a>
     <a href="https://www.facebook.com/alimuzzaman.haris/">
-     <img height=40 align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968764.png" alt="Facebook" />
+     <img height=40 align="center" title="Facebook || MD Alimuzzaman Haris" src="https://cdn-icons-png.flaticon.com/128/5968/5968764.png" alt="Facebook" />
   </a>
     <a href="https://wa.me/+8801405742311/">
-     <img height=40 align="center" src="https://cdn-icons-png.flaticon.com/128/15713/15713434.png" alt="WhatsApp" />
+     <img height=40 align="center" title="Whatsapp || MD Alimuzzaman Haris" src="https://cdn-icons-png.flaticon.com/128/15713/15713434.png" alt="WhatsApp" />
   </a>
 </div>
 
