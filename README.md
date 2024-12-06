@@ -7,7 +7,7 @@
 <h3 align="center">I'm a Multi-talented web developer and designer with a knack for creativity.</h3>
 
 <div align="center"> 
-  <a href="mailto:mdalimuzzaman437@gmail.com" target="_blank">
+  <a href="https://mailto:mdalimuzzaman437@gmail.com" target="_blank">
      <img height=40 align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/alimuzzaman-haris/" target="_blank">
