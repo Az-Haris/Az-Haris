@@ -49,7 +49,7 @@
 <p align="center">I enjoy learning about emerging technologies!</p>
 <br />
 <div align="center">
-    <a href="buymeacoffee.com/ZfXvzCcYq0" target="_blank">
+    <a href="https://buymeacoffee.com/ZfXvzCcYq0" target="_blank">
     <img height=60 src="https://www.codehim.com/wp-content/uploads/2022/09/bmc-button.png" alt="Buy Me a Coffee" />
 </a>
 </div>
