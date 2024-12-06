@@ -7,19 +7,19 @@
 <h3 align="center">I'm a Multi-talented web developer and designer with a knack for creativity.</h3>
 
 <div align="center"> 
-  <a href="https://mailto:mdalimuzzaman437@gmail.com" target="_blank">
-     <img height=40 align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/alimuzzaman-haris/" target="_blank">
+    <a href="mailto:mdalimuzzaman437@gmail.com">
+      <img height="40" align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="Gmail" />
+    </a>
+  <a href="https://www.linkedin.com/in/alimuzzaman-haris/">
      <img height=40 align="center" src="https://cdn-icons-png.flaticon.com/128/145/145807.png" alt="Linkedin" />
   </a>
-  <a href="https://www.instagram.com/alimuzzaman.haris/" target="_blank">
+  <a href="https://www.instagram.com/alimuzzaman.haris/">
      <img height=40 align="center" src="https://cdn-icons-png.flaticon.com/128/15713/15713420.png" alt="Instagram" />
   </a>
-    <a href="https://www.facebook.com/alimuzzaman.haris/" target="_blank">
+    <a href="https://www.facebook.com/alimuzzaman.haris/">
      <img height=40 align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968764.png" alt="Facebook" />
   </a>
-    <a href="https://wa.me/+8801405742311/" target="_blank">
+    <a href="https://wa.me/+8801405742311/">
      <img height=40 align="center" src="https://cdn-icons-png.flaticon.com/128/15713/15713434.png" alt="WhatsApp" />
   </a>
 </div>
@@ -49,7 +49,7 @@
 <p align="center">I enjoy learning about emerging technologies!</p>
 <br />
 <div align="center">
-    <a href="https://buymeacoffee.com/ZfXvzCcYq0" target="_blank">
+    <a href="https://buymeacoffee.com/ZfXvzCcYq0">
     <img height=60 src="https://www.codehim.com/wp-content/uploads/2022/09/bmc-button.png" alt="Buy Me a Coffee" />
 </a>
 </div>
