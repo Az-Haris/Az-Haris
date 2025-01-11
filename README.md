@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Az-Haris.Az-Haris" alt="Visitors: 9999" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Haris!;" alt="Hi There, I'm Haris !" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Haris!;" alt="Hi There, I'm Haris !" />
 </h1>
 
 <h3 align="center">I'm a Multi-talented web developer and designer with a knack for creativity.</h3>
