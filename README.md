@@ -4,6 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Haris!;" alt="Hi There, I'm Haris !" />
 </h1>
 
+<img align="center" src="./Banner.png" alt="Banner" />
+
 <h3 align="center">I'm a Multi-talented web developer and designer with a knack for creativity.</h3>
 
 <div align="center"> 
