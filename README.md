@@ -1,9 +1,9 @@
 <!-- PROFILE BANNER -->
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="MD Alimuzzaman Haris - Full Stack Developer" width="100%" />
+  <img src="./banner.png" alt="MD Alimuzzaman Haris - Full Stack Developer" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm MD Alimuzzaman Haris 👋</h1>
+<h1 align="center">Hi, I'm Haris 👋</h1>
 
 <h3 align="center">
   Web Developer @ Ahmed Driving School | Full-Stack Developer
@@ -62,17 +62,11 @@ I enjoy turning real-world problems into software solutions through clean code, 
   <a href="mailto:mdalimuzzaman437@gmail.com">
     <img src="https://camo.githubusercontent.com/bf3f303922bf108b98e532456c6b3e382fcc4274ffb14a8fb10edccc8e8e776f/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f353936382f353936383533342e706e67" width="40" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  <a href="https://www.facebook.com/alimuzzaman.haris/">
+    <img src="https://camo.githubusercontent.com/89bfa57629bd20478b69860d5a85caaf5f37dde89359986d6175fba2d9600531/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f353936382f353936383736342e706e67" width="40" />
   </a>
-  <a href="YOUR_FACEBOOK_URL">
-    <img src="https://skillicons.dev/icons?i=facebook" width="40" />
-  </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://skillicons.dev/icons?i=webflow" width="40" />
-  </a>
-  <a href="mailto:YOUR_PUBLIC_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
+  <a href="https://api.whatsapp.com/send/?phone=%2B8801405742311&text&type=phone_number&app_absent=0">
+    <img src="https://camo.githubusercontent.com/335c48c304d09757b0bbe7386ada329eca60e594d756c2e7dfc76fb6fdf316fe/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f31353731332f31353731333433342e706e67" width="40" />
   </a>
 </p>
 
