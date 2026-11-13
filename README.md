@@ -59,6 +59,9 @@ I enjoy turning real-world problems into software solutions through clean code, 
 ## 🤝 Connect With Me
 
 <p align="left">
+  <a href="mailto:mdalimuzzaman437@gmail.com">
+    <img src="https://camo.githubusercontent.com/bf3f303922bf108b98e532456c6b3e382fcc4274ffb14a8fb10edccc8e8e776f/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f353936382f353936383533342e706e67" width="40" />
+  </a>
   <a href="YOUR_LINKEDIN_URL">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
@@ -78,11 +81,6 @@ I enjoy turning real-world problems into software solutions through clean code, 
 - 💻 GitHub: [@Az-Haris](https://github.com/Az-Haris)
 
 ## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Az-Haris&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Az-Haris&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Az-Haris&theme=tokyonight&hide_border=true" width="70%" />
